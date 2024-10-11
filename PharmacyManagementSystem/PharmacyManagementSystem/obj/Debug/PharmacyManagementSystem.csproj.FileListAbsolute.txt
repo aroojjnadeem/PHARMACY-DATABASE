@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Guna.UI2.dll
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\Pharmacy.3F0D6835.Up2Date
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\DELL\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
